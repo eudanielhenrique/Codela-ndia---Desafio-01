@@ -1,10 +1,7 @@
 # Codelandia-DF01
 
-![GitHub repo size](https://img.shields.io/github/repo-size/eudanielhenrique/Codelandia-DF01.git?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/eudanielhenrique/Codelandia-DF01.git?style=for-the-badge)
-
 <h1 align="center">
- <img src="https://i.imgur.com/hJW42tI.png" alt="User registration"></center>
+ <img src="https://i.imgur.com/2jcGngP.png" alt="User registration"></center>
 </h1>
 
 Project developed during the Next Level Week Cup, on the explorer 2022 trail
@@ -36,4 +33,9 @@ Alternatively, see the GitHub documentation at [how to create a pull request](ht
 
 
 ## Screenshot
+
+<h1 align="center">
+ <img src="https://i.imgur.com/NxlZKpB.png" alt="User registration"></center>
+</h1>
+
 
